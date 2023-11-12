@@ -19,7 +19,6 @@ name: Fleek Configuration
 overlays: {}
 packages:
     - helix
-    - unison
 paths:
     - $HOME/bin
     - $HOME/.local/bin
