@@ -21,6 +21,7 @@
   home.packages = [
     # user selected packages
     pkgs.helix
+    pkgs.unison
     # Fleek Bling
     pkgs.git
     pkgs.htop
