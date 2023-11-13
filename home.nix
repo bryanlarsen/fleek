@@ -23,6 +23,7 @@
     pkgs.helix
     pkgs.unison
     pkgs.chezmoi
+    pkgs.bitwarden
     # Fleek Bling
     pkgs.git
     pkgs.htop
