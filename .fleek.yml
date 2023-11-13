@@ -22,6 +22,7 @@ packages:
     - unison
     - chezmoi
     - bitwarden
+    - bitwarden-cli
 paths:
     - $HOME/bin
     - $HOME/.local/bin

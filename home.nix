@@ -24,6 +24,7 @@
     pkgs.unison
     pkgs.chezmoi
     pkgs.bitwarden
+    pkgs.bitwarden-cli
     # Fleek Bling
     pkgs.git
     pkgs.htop
