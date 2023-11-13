@@ -33,6 +33,13 @@
     pkgs.fzf
     pkgs.ripgrep
     pkgs.vscode
+    pkgs.lazygit
+    pkgs.jq
+    pkgs.yq-go
+    pkgs.neovim
+    pkgs.neofetch
+    pkgs.btop
+    pkgs.cheat
     pkgs.just
     (pkgs.nerdfonts.override { fonts = [ "FiraCode" ]; })
   ];
