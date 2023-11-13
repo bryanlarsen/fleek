@@ -23,6 +23,7 @@ packages:
     - chezmoi
     - bitwarden
     - bitwarden-cli
+    - emacs
 paths:
     - $HOME/bin
     - $HOME/.local/bin
