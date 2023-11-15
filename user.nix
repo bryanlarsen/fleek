@@ -3,4 +3,7 @@
 
     programs.atuin.enable = true; 
 
+    home.sessionVariables = {
+	EDITOR = "vi";
+    };
 }
