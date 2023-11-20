@@ -26,6 +26,7 @@
     pkgs.bitwarden
     pkgs.bitwarden-cli
     pkgs.emacs
+    pkgs.xclip
     # Fleek Bling
     pkgs.git
     pkgs.htop
