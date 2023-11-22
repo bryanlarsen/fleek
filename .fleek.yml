@@ -26,6 +26,7 @@ packages:
     - bitwarden-cli
     - emacs
     - xclip
+    - patch
 paths:
     - $HOME/bin
     - $HOME/.local/bin
