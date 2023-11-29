@@ -28,6 +28,7 @@
     pkgs.emacs
     pkgs.xclip
     pkgs.patch
+    pkgs.kubectl
     # Fleek Bling
     pkgs.git
     pkgs.htop

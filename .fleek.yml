@@ -27,6 +27,7 @@ packages:
     - emacs
     - xclip
     - patch
+    - kubectl
 paths:
     - $HOME/bin
     - $HOME/.local/bin
