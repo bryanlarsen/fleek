@@ -29,6 +29,7 @@
     pkgs.xclip
     pkgs.patch
     pkgs.kubectl
+    pkgs.devbox
     # Fleek Bling
     pkgs.git
     pkgs.htop

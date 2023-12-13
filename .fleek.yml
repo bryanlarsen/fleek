@@ -28,6 +28,7 @@ packages:
     - xclip
     - patch
     - kubectl
+    - devbox
 paths:
     - $HOME/bin
     - $HOME/.local/bin
