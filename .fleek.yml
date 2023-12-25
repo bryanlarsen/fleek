@@ -29,6 +29,7 @@ packages:
     - patch
     - kubectl
     - devbox
+    - simple-scan
 paths:
     - $HOME/bin
     - $HOME/.local/bin

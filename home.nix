@@ -30,6 +30,7 @@
     pkgs.patch
     pkgs.kubectl
     pkgs.devbox
+    pkgs.simple-scan
     # Fleek Bling
     pkgs.git
     pkgs.htop
