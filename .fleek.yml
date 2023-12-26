@@ -30,6 +30,7 @@ packages:
     - kubectl
     - devbox
     - simple-scan
+    - synergy
 paths:
     - $HOME/bin
     - $HOME/.local/bin

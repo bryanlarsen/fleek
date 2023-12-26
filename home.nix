@@ -31,6 +31,7 @@
     pkgs.kubectl
     pkgs.devbox
     pkgs.simple-scan
+    pkgs.synergy
     # Fleek Bling
     pkgs.git
     pkgs.htop
