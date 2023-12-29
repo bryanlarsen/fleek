@@ -5,7 +5,7 @@
   programs.bash.initExtra = ''
     if [ -f "/run/.toolboxenv" ]; then
         TOOLBOX_NAME=$(cat /run/.containerenv | grep -oP "(?<=name=\")[^\";]+")
-        echo "[${HOSTNAME} ${TOOLBOX_NAME}]"
+        echo "[$${HOSTNAME} $${TOOLBOX_NAME}]"
 	if [[ $TOOLBOX_NAME = rust ]] ; then
 		source /opt/cargo/env
 	fi
