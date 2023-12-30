@@ -7,6 +7,8 @@
         TOOLBOX_NAME=$(cat /run/.containerenv | grep -oP "(?<=name=\")[^\";]+")
         echo "[$${HOSTNAME} $${TOOLBOX_NAME}]"
 	if [[ $TOOLBOX_NAME = rust ]] ; then
+		export RUSTUP_HOME=/opt/rustup
+		export CARGO_HOME=/opt/cargo
 		source /opt/cargo/env
 	fi
     fi
