@@ -6,7 +6,7 @@
     if [ -f "/run/.toolboxenv" ]; then
         TOOLBOX_NAME=$(cat /run/.containerenv | grep -oP "(?<=name=\")[^\";]+")
         echo "[$${HOSTNAME} $${TOOLBOX_NAME}]"
-	if [[ $TOOLBOX_NAME = rust ]] ; then
+	if [[ $TOOLBOX_NAME = rust || $TOOLBOX_NAME = jammy ]] ; then
 		export RUSTUP_HOME=/opt/rustup
 		export CARGO_HOME=/opt/cargo
 		source /opt/cargo/env
