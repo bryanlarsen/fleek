@@ -12,6 +12,8 @@
 		source /opt/cargo/env
 	fi
     fi
+
+    git-town completions bash | source
   '';
 
     home.sessionVariables = {
