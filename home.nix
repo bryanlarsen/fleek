@@ -32,6 +32,7 @@
     pkgs.devbox
     pkgs.simple-scan
     pkgs.synergy
+    pkgs.git-town
     # Fleek Bling
     pkgs.git
     pkgs.htop
