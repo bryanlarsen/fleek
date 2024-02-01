@@ -31,7 +31,6 @@ packages:
     - devbox
     - simple-scan
     - synergy
-    - git-town
 paths:
     - $HOME/bin
     - $HOME/.local/bin
