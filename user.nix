@@ -14,7 +14,7 @@
     fi
 
 
-    source <(git-town completions bash)
+    # source <(git-town completions bash)
   '';
 
     home.sessionVariables = {
