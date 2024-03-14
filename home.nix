@@ -32,6 +32,7 @@
     pkgs.devbox
     pkgs.simple-scan
     pkgs.synergy
+    pkgs.wireshark
     # Fleek Bling
     pkgs.git
     pkgs.htop
