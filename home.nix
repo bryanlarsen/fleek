@@ -33,6 +33,7 @@
     pkgs.simple-scan
     pkgs.synergy
     pkgs.wireshark
+    pkgs.cdrkit
     # Fleek Bling
     pkgs.git
     pkgs.htop

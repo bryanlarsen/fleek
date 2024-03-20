@@ -32,6 +32,7 @@ packages:
     - simple-scan
     - synergy
     - wireshark
+    - cdrkit
 paths:
     - $HOME/bin
     - $HOME/.local/bin
