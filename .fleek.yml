@@ -33,6 +33,7 @@ packages:
     - synergy
     - wireshark
     - cdrkit
+    - tree-sitter
 paths:
     - $HOME/bin
     - $HOME/.local/bin
