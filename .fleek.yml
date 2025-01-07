@@ -34,6 +34,7 @@ packages:
     - wireshark
     - cdrkit
     - tree-sitter
+    - moreutils
 paths:
     - $HOME/bin
     - $HOME/.local/bin

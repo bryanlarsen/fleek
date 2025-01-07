@@ -35,6 +35,7 @@
     pkgs.wireshark
     pkgs.cdrkit
     pkgs.tree-sitter
+    pkgs.moreutils
     # Fleek Bling
     pkgs.git
     pkgs.htop
