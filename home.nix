@@ -36,6 +36,7 @@
     pkgs.cdrkit
     pkgs.tree-sitter
     pkgs.moreutils
+    pkgs.incus
     # Fleek Bling
     pkgs.git
     pkgs.htop

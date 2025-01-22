@@ -35,6 +35,7 @@ packages:
     - cdrkit
     - tree-sitter
     - moreutils
+    - incus
 paths:
     - $HOME/bin
     - $HOME/.local/bin
